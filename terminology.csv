@@ -4,8 +4,8 @@ Thalamus,丘脑,central station
 Hippocampus,海马,memory and learning
 Amygdala,杏仁体,emotional reactions:four F's include fighting/fleeing/feeding/mating
 White Matter,白质,areas of the central nervous system (CNS) that are mainly made up of myelinated axons also called tracts
-Cortex,皮层,outer layer of the cerebrum and sometimes referred to as the cerebral cortex: Visual Cortex/Auditory Cortex/Touch Cortext/etc
-Frontal Lobe,额叶,located at the front of each cerebral hemisphere
-Occipital Lobe,枕叶,located at the back of the head
-Parietal Lobe,顶叶,positioned above the temporal lobe
-Temporal Lobe,颞叶,sit behind the ears
+Cortex,皮层,outer layer of the cerebrum and sometimes referred to as the cerebral cortex: Visual Cortex/Auditory Cortex/Sensory Cortex/Motor Cortex/etc
+Frontal Lobe,额叶,located at the front of each cerebral hemisphere;include Motor Cortex
+Occipital Lobe,枕叶,located at the back of the head;include Visual Cortex
+Parietal Lobe,顶叶,positioned above the temporal lobe;include Sensory cortex
+Temporal Lobe,颞叶,sit behind the ears;include Auditory Cortex

@@ -1,7 +1,8 @@
 # Computational Neuroscience
 - GLOSSARY of Neuroscience Terminology
+  - [Brain Glossary](https://neuromoment.cn/glossary/)
   - [Anatomy of the Brain](https://mayfieldclinic.com/pe-anatbrain.htm)
-  - [Brain Glossary](https://www.brainfacts.org/glossary)
+  - [BrainFact Glossary](https://www.brainfacts.org/glossary)
   - [Key Brain Terms Glossary](https://dana.org/explore-neuroscience/brain-basics/key-brain-terms-glossary/)
   - [terminology.csv](https://github.com/xlpiao/neuroscience/blob/master/terminology.csv)
 - General Neuroscience Books
