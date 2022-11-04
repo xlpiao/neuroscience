@@ -18,3 +18,11 @@
 - Mathematics
 	- [Video Lectures | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 	- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+
+# GLOSSARY of Neuroscience Terminology
+
+
+| EN | CN | KR | Definition |
+| --- | --- | --- | --- |
+| Cerebellum | 小脑 | 소뇌 | An important movement control center |

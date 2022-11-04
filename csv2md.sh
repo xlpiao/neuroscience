@@ -1,7 +1,7 @@
 INPUT_FILE=$1
 OUTPUT_FILE=README.md
 
-echo -e "# GLOSSARY\n\n" > $OUTPUT_FILE
+echo -e "\n\n# GLOSSARY of Neuroscience Terminology\n\n" >> $OUTPUT_FILE
 
 INPUT_HEADER=true
 while read INPUT; do
