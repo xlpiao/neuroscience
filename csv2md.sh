@@ -7,7 +7,7 @@ INPUT_HEADER=true
 while read INPUT; do
   if $INPUT_HEADER; then
     echo -e "| ${INPUT//,/ | } |" >> $OUTPUT_FILE
-    echo -e "| --- | --- | --- | --- |" >> $OUTPUT_FILE
+    echo -e "| --- | --- | --- |" >> $OUTPUT_FILE
     INPUT_HEADER=false
     continue
   fi

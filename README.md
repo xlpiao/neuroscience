@@ -1,8 +1,7 @@
 # Computational Neuroscience
-- Glossary
+- GLOSSARY of Neuroscience Terminology
+  - [Anatomy of the Brain](https://mayfieldclinic.com/pe-anatbrain.htm)
   - [terminology.csv](https://github.com/xlpiao/neuroscience/blob/master/terminology.csv)
-- Reference
-	- [Self-study computational neuroscience | Coding, Textbooks, Math](https://www.youtube.com/watch?v=QU6-2MEfVOc&list=WL&index=12)
 - General Neuroscience Books
 	- [Neuroscience: exploring the brain](https://www.amazon.com/Neuroscience-Exploring-Enhanced-Mark-Bear/dp/1284211282/ref=sr_1_1?crid=K67FQVUFLGC9&keywords=Neuroscience%3A+exploring+the+brain&qid=1666657679&qu=eyJxc2MiOiIxLjM3IiwicXNhIjoiMS40MCIsInFzcCI6IjEuNDIifQ%3D%3D&s=books&sprefix=neuroscience+exploring+the+brain%2Cstripbooks-intl-ship%2C260&sr=1-1)
 	- [Principles of Neural Science](https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel/dp/1259642232/ref=sr_1_1?crid=GN97ZZPKOX14&keywords=Principles+of+Neural+Science&qid=1666657866&qu=eyJxc2MiOiIxLjc0IiwicXNhIjoiMS4xNyIsInFzcCI6IjEuNTAifQ%3D%3D&sprefix=neuroscience-exploring+the+brain%2Caps%2C304&sr=8-1)
@@ -19,10 +18,3 @@
 	- [Video Lectures | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 	- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-
-# GLOSSARY of Neuroscience Terminology
-
-
-| EN | CN | KR | Definition |
-| --- | --- | --- | --- |
-| Cerebellum | 小脑 | 소뇌 | An important movement control center |
