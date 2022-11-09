@@ -4,6 +4,7 @@
   - [Anatomy of the Brain](https://mayfieldclinic.com/pe-anatbrain.htm)
   - [BrainFact Glossary](https://www.brainfacts.org/glossary)
   - [Key Brain Terms Glossary](https://dana.org/explore-neuroscience/brain-basics/key-brain-terms-glossary/)
+  - [neuromoment(CN)](https://neuromoment.cn/glossary/)
   - [terminology.csv](https://github.com/xlpiao/neuroscience/blob/master/terminology.csv)
 - General Neuroscience Books
 	- [Neuroscience: exploring the brain](https://www.amazon.com/Neuroscience-Exploring-Enhanced-Mark-Bear/dp/1284211282/ref=sr_1_1?crid=K67FQVUFLGC9&keywords=Neuroscience%3A+exploring+the+brain&qid=1666657679&qu=eyJxc2MiOiIxLjM3IiwicXNhIjoiMS40MCIsInFzcCI6IjEuNDIifQ%3D%3D&s=books&sprefix=neuroscience+exploring+the+brain%2Cstripbooks-intl-ship%2C260&sr=1-1)
